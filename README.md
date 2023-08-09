@@ -12,4 +12,4 @@ awards & recognition for excellence.
 We are going to teach you how to cook with passion and sparkles in your eyes! We love what we do and
 believe you will enjoy our cooking atmosphere!
 
-## [https://dmytro1117.github.io/oh-my-donut/]
+https://dmytro1117.github.io/oh-my-donut/
